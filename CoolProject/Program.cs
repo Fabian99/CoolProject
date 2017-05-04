@@ -10,6 +10,13 @@ namespace CoolProject
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
+            int nul = 0;
+            while (nul == 0)
+            {
+                Console.Write("Dit is een cool project :D");
+            }
+            //DIT IS EEN COOL PROJECT!!!456
         }
     }
 }
